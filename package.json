@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host 185.218.124.120",
     "build": "vite build",
     "preview": "vite preview"
   },
